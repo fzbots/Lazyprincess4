@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://telegra.ph/file/7db36957d6b8781083ef2.jpg" alt="MrkillerDeveloper Logo">
+  <img src="https://telegra.ph/file/217b053f3cef7a5c1381d.jpg" alt="Faiz Movies Logo">
 </p>
 <h1 align="center">
-  <b> MrkillerDeveloper BOT </b>
+  <b> Faiz Movies </b>
 </h1>
 
 ## ⚡️Features
@@ -47,7 +47,7 @@ Read [this](https://t.me/mrkillerdeveloper/13) before you start messing up with 
 * `LAZY_RENAMERS`: ID of the users to which you want to give file renaming authentication. Separate multiple ids by space.
 
 
-* Check [info.py](https://github.com/harshil8981/MrkillerDeveloperv2/blob/master/info.py) for more
+* Check [info.py](https://github.com/fzbots/Lazyprincess4/blob/master/info.py) for more
 
 
 ## Deploy
@@ -60,7 +60,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/harshil8981/MrkillerDeveloperv2">
+<a href="https://heroku.com/deploy?template=https://github.com/fzbots/Lazyprincess4">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -69,7 +69,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/harshil8981/MrkillerDeveloperv2
+git clone https://github.com/fzbots/Lazyprincess4
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
