@@ -1,5 +1,5 @@
 {
-    "name": "MrkillerDeveloper",
+    "name": "stylishboyfaiz",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
     "stack": "container",
     "keywords": [
@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/harshil8981/MrkillerDeveloperv2",
-    "repository": "https://github.com/harshil8981/MrkillerDeveloperv2",
+    "website": "https://github.com/fzbots/Lazyprincess4",
+    "repository": "https://github.com/fzbots/Lazyprincess4",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
