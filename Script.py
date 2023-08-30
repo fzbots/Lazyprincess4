@@ -22,8 +22,8 @@ Here is the help for my COMMANDS."""
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Lazy Princess is an open source project. 
-- Source - https://github.com/fzbots/Lazyprincess4  
+- Lazy Princess is an Private Project. 
+  
 
 <b>DEVS:</b>
 - <a href=https://t.me/stylishboyfaiz>𖣘ᴹᴿ๛CRAZYᴮᴼᵞ🕊️⃝🦋</a>"""
